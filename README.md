@@ -1,4 +1,6 @@
-![Banner](https://i.imgur.com/BannerURL.png)
+<p align="center">
+  <img src="https://git-profile-readme-banner.vercel.app/api/python?username=Guonejo" alt="Banner de portada" />
+</p>
 
 # 👋 ¡Hola! Soy Matias
 
