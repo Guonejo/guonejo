@@ -38,10 +38,9 @@ Siempre buscando aprender y mejorar, ¡tanto en software como hardware!
 
 - 🚩 Participación en proyectos y forks destacados:
    - BetterDiscord
-   - prograweb
+   - DespensaGO
    - PurrfectStore
-   - Classpro-firebase
-   - Test-app
+
 
 ---
 
