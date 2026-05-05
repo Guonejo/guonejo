@@ -65,7 +65,7 @@ Soy un **Analista Programador** con un enfoque único: combino el desarrollo de 
 ¿Interesado en implementar **CrewControl** en tu empresa o necesitas consultoría en infraestructura?
 
 - 💼 **LinkedIn:** [matias-carvacho](https://www.linkedin.com/in/matias-carvacho)
-- 📧 **Email:** [matias.carvachos@gmail.com](mailto:matias.carvachos@gmail.com)
+- 📧 **Email:** [matias.carvachos@gmail.com](mailto:ma.carvachos@gmail.com)
 - 📍 **Ubicación:** Santiago / Quilpué, Chile.
 
 ---
